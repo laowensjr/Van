@@ -1,5 +1,5 @@
 # Vanderbilt
-## Github Most Starred Public Repos Retrieved Through Github API using OOP PHP and PHP's Curl Function
+## Github Most Starred Public Repos Retrieved Through Github API using OOP PHP and PHP's Curl Function. Each time you go to the Page it retrieves the List via the Github API. So therefore the list will always be updated.
 
 -Used the Github API to retrieve the Most Starred Public PHP Projects.
 -The Page "index2.php" retrieves the Most Starred Public PHP Repos from the GitHub API, displays them in A Bootstrap Responsive Table, then Updates the MySQL DataBase. By Default only 30 records are printed to the screen. You could add more using the parameter named per page however we decided to leave it a the default for purposes of this exercise.
